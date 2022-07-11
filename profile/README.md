@@ -6,9 +6,8 @@
 <div style="display:inline-block;vertical-align:top;">
 <h2>THANKS TO 🙏</h2>
 </div>
-<img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.18169-9/30124706_1009783675839915_3613194031030345565_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=YPGFo7mpFlkAX-kpARn&_nc_ht=scontent-ssn1-1.xx&oh=00_AT-taXFl6sM_2ien2VK5Gai7xyX9dyT98oruRrkyWaOcfA&oe=62F21782" width="90px" height="100px">
 
-[![텍스트](https://camo.githubusercontent.com/4290e95a555775848d03434080be4832b2d713061f133281be39cf8dadc46ba6/68747470733a2f2f7374617469632e77616e7465642e636f2e6b722f696d616765732f6576656e74732f313935342f61343434393033352e6a7067)](https://www.wanted.co.kr/events/pre_ob_be_3)
+[![원티드 프리온보딩 백엔드](https://camo.githubusercontent.com/4290e95a555775848d03434080be4832b2d713061f133281be39cf8dadc46ba6/68747470733a2f2f7374617469632e77616e7465642e636f2e6b722f696d616765732f6576656e74732f313935342f61343434393033352e6a7067)](https://www.wanted.co.kr/events/pre_ob_be_3)
 
 ---
 
